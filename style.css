@@ -1,0 +1,52 @@
+body{
+	background-color: green;
+    text-align: center;
+	
+}
+#main{
+    background-image: url("http://oorjitaprojects.com/wp-content/uploads/2013/01/Oorjita-Istana-jogo.jpg");
+    color: darkblue;
+    padding: 100px;
+}
+
+.environment_li {
+    margin-top: 13px;
+    padding-top: 13px;
+    
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img {
+    border-radius: 25px;
+}
+
+.environment_li p {
+    margin-top: 10px;
+}
+ 
+#smoll{
+    height: 50px;
+    width: 50px;
+}
+
+
+#environment{
+    background-color: cyan;
+}
+
+#Info{
+    background-color: indigo;
+}
+
+#All{
+    background-color: gray;
+}
+
+#pio{
+    width: 40px;
+    height: 30px;
+}
